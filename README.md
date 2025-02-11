@@ -1,5 +1,7 @@
 # epam_kafka
 
+https://github.com/KadyrbekAnalyst/epam_kafka
+
 # Kafka Practice Documentation
 
 ## 1. Environment Setup ✅
